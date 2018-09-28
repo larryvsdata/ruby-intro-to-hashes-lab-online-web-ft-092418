@@ -20,7 +20,8 @@ def monopoly_with_second_tier
 		    pieces:4
 		  }
 		}
-
+		monopoly[:railroads][:names]={}
+  monopoly[:railroads][:nrent_in_dollars]={}
 
 end
 
